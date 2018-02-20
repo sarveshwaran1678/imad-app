@@ -1,22 +1,169 @@
-body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+.header
+{
+
+  width: 1350px;
+  height: 80px;
+  background-color:rgb(44, 71, 74);
+  float: left;
+
+}
+body
+{
+  margin: 0%;
+  padding: 0px;
 }
 
-.center {
-    text-align: center;
+.header h1
+{
+  color:white;
+  padding-left: 120px;
+  float: left;
+}
+.nav{
+float: left;
+  padding-left: 450px;
+}
+.nav li{
+  float: left;
+  margin-top: 13px;;
+  margin-left: 15px;
+  margin-right:15px;
+  list-style-type: none;
+}
+.nav a{
+  text-decoration: none;
+  color: white;
+
+}
+a:hover{
+  padding-bottom: 30px;
+  border-bottom:  20px solid blue ;
+
+}
+a:active{
+  padding:30px 0px 30px 0px;
+  background-color:  rgb(33, 161, 80);
+
+
+}
+.clear
+{
+  clear:both;
+
+}
+.part2
+{
+  padding-top: 40px;
+  height: 400px;
+  width:1350px;
+  background-image: url(this2.jpg);
+  background-size: 1350px 500px;
+
+}
+.part2 h1
+{
+  background-color: rgba(0, 0, 0, 0.65);
+  color: white;
+  border-radius: 20px;
+  padding-left: 550px;
+
+}
+.triangle
+{
+
+
+  width: 1350px;
+  height:650px;
+
+}
+.part2 h3
+{
+  padding-left: 500px;
+}
+.triangle li{
+  float: left;
+  margin-top: 50px;
+  margin-left: 0px;
+  margin-right:0px;
+  list-style-type: none;
+}
+.uptriangle
+{
+  float: left;
+  width: 0px;
+  height: 40px;;
+  border-left: 80px solid transparent;
+  border-right: 80px solid transparent;
+  border-bottom: 100px solid white;
+
 }
 
-.text-big {
-    font-size: 300%;
+.up{
+  margin-left: -40px;
+  margin-top: -100px;
+}
+.down
+{
+   margin-left: -40px;
+  margin-top: 100px;
+}
+.Downtriangle
+{
+  float: left;
+  width: 0px;
+  height: 40px;
+  border-left: 80px solid transparent;
+  border-right: 80px solid transparent;
+
+  border-top: 100px solid white;
+}
+.part3
+{
+
+  width: 1350px;
+  height: 300px;
+  background-color: white;
+
+}
+.part3 h1
+{
+  padding-top: 50px;
+  padding-left: 550px;
+}
+.part3 p
+{
+  padding-left: 500px;
+}
+.photos
+{
+    padding-top: 20px;
+  padding-left:430px;
 }
 
-.bold {
-    font-weight: bold;
-}
+.part4
+{
 
-.img-medium {
-    height: 200px;
+  background-color: rgb(38, 88, 175);
+  width: 1350px;
+  height: 400px;
+
+}
+.part4 h1
+{
+  padding-top:40px;
+  padding-left:550px;
+
+}
+.part4 p
+{
+  padding-left: 470px;
+}
+.part4 li
+{
+
+  list-style-type: none;
+  float: left;
+  padding-left:200px;
+
 }
 
