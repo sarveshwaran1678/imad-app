@@ -51,23 +51,7 @@ a:active{
   clear:both;
 
 }
-.part2
-{
-  padding-top: 40px;
-  height: 400px;
-  width:1350px;
-  background-image: url(this2.jpg);
-  background-size: 1350px 500px;
 
-}
-.part2 h1
-{
-  background-color: rgba(0, 0, 0, 0.65);
-  color: white;
-  border-radius: 20px;
-  padding-left: 550px;
-
-}
 .triangle
 {
 
@@ -87,16 +71,7 @@ a:active{
   margin-right:0px;
   list-style-type: none;
 }
-.uptriangle
-{
-  float: left;
-  width: 0px;
-  height: 40px;;
-  border-left: 80px solid transparent;
-  border-right: 80px solid transparent;
-  border-bottom: 100px solid white;
 
-}
 
 .up{
   margin-left: -40px;
@@ -107,16 +82,7 @@ a:active{
    margin-left: -40px;
   margin-top: 100px;
 }
-.Downtriangle
-{
-  float: left;
-  width: 0px;
-  height: 40px;
-  border-left: 80px solid transparent;
-  border-right: 80px solid transparent;
 
-  border-top: 100px solid white;
-}
 .part3
 {
 
@@ -125,11 +91,7 @@ a:active{
   background-color: white;
 
 }
-.part3 h1
-{
-  padding-top: 50px;
-  padding-left: 550px;
-}
+
 .part3 p
 {
   padding-left: 500px;
@@ -148,12 +110,7 @@ a:active{
   height: 400px;
 
 }
-.part4 h1
-{
-  padding-top:40px;
-  padding-left:550px;
 
-}
 .part4 p
 {
   padding-left: 470px;
